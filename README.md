@@ -1,15 +1,16 @@
-Voron 2.4 - Klipper (Kalico/Danger-Klipper) with Klippain config files
+#Voron 2.4
+- Klipper (Kalico/Danger-Klipper) with Klippain config files
 
 The whole point of this repo is to have a backup of all of my files while I mess with the printer.
 Currently I am working on:
-Printing and adding the Box Turtle AMS system
+Printing and adding the **[Box Turtle AMS](https://github.com/ArmoredTurtle/BoxTurtle)** system
 Adding a filament cutter to my XOL toolhead
 
 This is my Voron 2.4 with a bunch of custom things:
-It was all based off the formbot 2.4 kit
-Manta M8P v1.1
+It was all based off the **[formbot](https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457)** 2.4 kit
+**[Manta M8P](https://github.com/bigtreetech/Manta-M8P)** v1.1
 CM4 4gb (had issues with CANBUS with the CB1 so I upgraded to a CM4)
-BTT EBB36 v1.2 Toolhead
-ERCF V2.0 (switching to BT ams)
+**[BTT EBB36 v1.2](https://github.com/bigtreetech/EBB)** Toolhead (switching to BT ams)
+**[ERCF V2.0](https://github.com/Enraged-Rabbit-Community/ERCF_v2)**
 
-LDO Box Turtle Kit
+**[LDO Box Turtle Kit](https://www.fabreeko.com/products/box-turtle?variant=46305056096511)**
