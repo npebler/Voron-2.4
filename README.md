@@ -1,10 +1,10 @@
 # Voron 2.4
-Klipper (Kalico/Danger-Klipper) with Klippain config files<br />
+Klipper (**[Kalico/Danger-Klipper](https://github.com/KalicoCrew/kalico)**) with **[Klippain](https://github.com/Frix-x/klippain)** config files<br />
 
 The whole point of this repo is to have a backup of all of my files while I mess with the printer.<br />
 Currently I am working on:<br />
 Printing and adding the **[Box Turtle AMS](https://github.com/ArmoredTurtle/BoxTurtle)** system<br />
-Adding a filament cutter to my XOL toolhead\n<br />
+Adding a filament cutter to my **[XOL toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)**<br /><br />
 
 This is my Voron 2.4 with a bunch of custom things:<br />
 It was all based off the **[formbot](https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457)** 2.4 kit<br />
