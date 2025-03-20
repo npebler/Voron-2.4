@@ -6,6 +6,8 @@ Currently I am working on:<br />
 Printing and adding the **[Box Turtle AMS](https://github.com/ArmoredTurtle/BoxTurtle)** system<br />
 Adding a filament cutter to my **[XOL toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)**<br /><br />
 
+![Image of Voron 2.4](pictures/IMG_1686.jpg)
+
 This is my Voron 2.4 with a bunch of custom things:<br />
 It was all based off the **[formbot](https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457)** 2.4 kit<br />
 - **[Manta M8P](https://github.com/bigtreetech/Manta-M8P)** v1.1
@@ -14,3 +16,5 @@ It was all based off the **[formbot](https://www.formbot3d.com/products/voron-24
 - **[ERCF V2.0](https://github.com/Enraged-Rabbit-Community/ERCF_v2)**
 
 - **[LDO Box Turtle Kit](https://www.fabreeko.com/products/box-turtle?variant=46305056096511)**
+
+![Image of Voron 2.4](pictures/IMG_1685.jpg)
