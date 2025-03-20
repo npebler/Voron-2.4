@@ -12,8 +12,8 @@ This is my Voron 2.4 with a bunch of custom things:<br />
 It was all based off the **[formbot](https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457)** 2.4 kit<br />
 - **[Manta M8P](https://github.com/bigtreetech/Manta-M8P)** v1.1
 - CM4 4gb (had issues with CANBUS with the CB1 so I upgraded to a CM4)
-- **[BTT EBB36 v1.2](https://github.com/bigtreetech/EBB)** Toolhead (switching to BT ams)
-- **[ERCF V2.0](https://github.com/Enraged-Rabbit-Community/ERCF_v2)**
+- **[BTT EBB36 v1.2](https://github.com/bigtreetech/EBB)** Toolhead board
+- **[ERCF V2.0](https://github.com/Enraged-Rabbit-Community/ERCF_v2)** (switching to BT ams)
 
 - **[LDO Box Turtle Kit](https://www.fabreeko.com/products/box-turtle?variant=46305056096511)**
 
